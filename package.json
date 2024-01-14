@@ -1,0 +1,27 @@
+{
+  "name": "despat-ts",
+  "version": "1.0.0",
+  "description": "Practice design patterns in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jogomez/desPat-TS.git"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "typescript"
+  ],
+  "author": "Jorge Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jogomez/desPat-TS/issues"
+  },
+  "homepage": "https://github.com/jogomez/desPat-TS#readme",
+  "dependencies": {
+    "@types/node": "^20.11.0"
+  }
+}
