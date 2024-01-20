@@ -6,14 +6,14 @@ foo = 'ABC = 123'
 foo = 'quick brown fox, \n etc'
 foo = "It wasn't \n \"me\""
 
-console.log('foo :>> ', foo);
+console.log('foo :>> ', foo)
 
 //Boolean
 let bar: boolean
-bar = true;
-bar = false;
+bar = true
+bar = false
 
-console.log('bar :>> ', bar);
+console.log('bar :>> ', bar)
 
 //Array types
 let str_arr: string[]
@@ -66,5 +66,5 @@ console.log("str_arr :>>", str_arr)
 // replace an item (0 based index)
 str_arr[1] = 'y'
 console.log("str_arr[1] = 'y' (replace the item with index 1)")
-console.log('str_arr :>> ', str_arr);
+console.log('str_arr :>> ', str_arr)
 

@@ -37,11 +37,7 @@ CAT.walk(20);
 CAT.meow();
 CAT.birthday();
 console.log(
-            CAT.name,
-            'the cat is', 
-            CAT.age, 
-            'years old, and has walked a total of',
-            CAT.totalStepCount(), 
-            'steps.'
+            CAT.name,'the cat is', CAT.age, 'years old, and has walked a total of',
+            CAT.totalStepCount(), 'steps.'
 )
 // Robert the cat is 2 years old, and has walked a total of  50  steps.
